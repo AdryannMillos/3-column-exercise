@@ -45,22 +45,22 @@ p {
 .container {
   margin-bottom: 3rem;
 }
-.sedans .suvs .luxurys{
-    padding: 4.2rem;
-}
 
 .sedans {
   background-color: hsl(31, 77%, 52%);
   border-radius: 10px 0 0 10px;
+  padding: 4.2rem;
 }
 
 .suvs {
   background-color: hsl(184, 100%, 22%);
+  padding: 4.2rem;
 }
 
 .luxurys {
   background-color: hsl(179, 100%, 13%);
   border-radius: 0 10px 10px 0;
+  padding: 4.2rem;
 }
 
 /*  attribution*/
