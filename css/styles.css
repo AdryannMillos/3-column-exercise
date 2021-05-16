@@ -63,6 +63,15 @@ p {
   padding: 4.2rem;
 }
 
+@media (max-width: 993px){
+  .sedans{
+    border-radius: 10px 10px 0 0;
+  }
+  .luxurys{
+    border-radius: 0 0 10px 10px;
+  }
+}
+
 /*  attribution*/
 .attribution {
   font-size: 11px;
